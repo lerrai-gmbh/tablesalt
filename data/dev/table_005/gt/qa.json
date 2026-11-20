@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Capex\" in column \"Q4\"?",
+  "answer": "4 499",
+  "answer_numeric": 4499.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Cash flow\" in column \"Q3\"?",
+  "answer": "44 188 %",
+  "answer_numeric": 44188.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Capex\" in column \"Q3\"?",
+  "answer": "49 423",
+  "answer_numeric": 49423.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Inventory\" in column \"Q3\"?",
+  "answer": "-6 400",
+  "answer_numeric": -6400.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Q4\" for the rows ['Capex', 'Interest expense', 'EBITDA', 'Cash flow', 'Inventory', 'EBIT']?",
+  "answer": 261019.0,
+  "answer_numeric": 261019.0
+ }
+]

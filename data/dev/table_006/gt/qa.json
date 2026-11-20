@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sulfur\" in column \"Std\"?",
+  "answer": "31,439.43",
+  "answer_numeric": 31439.43
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Magnesium\" in column \"N\"?",
+  "answer": "61,062.44",
+  "answer_numeric": 61062.44
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Calcium\" in column \"Median\"?",
+  "answer": "98,517.54",
+  "answer_numeric": 98517.54
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Aluminium\" in column \"N\"?",
+  "answer": "(3,973.09)",
+  "answer_numeric": -3973.09
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Std\" for the rows ['Sulfur', 'Magnesium', 'Carbon', 'Lithium', 'Oxygen', 'Hydrogen', 'Chlorine', 'Silicon', 'Calcium']?",
+  "answer": 340688.11,
+  "answer_numeric": 340688.11
+ }
+]

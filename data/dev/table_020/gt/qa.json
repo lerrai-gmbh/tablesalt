@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Materialaufwand\" in column \"Min\"?",
+  "answer": "26,118.41",
+  "answer_numeric": 26118.41
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Forderungen\" in column \"Max\"?",
+  "answer": "(9,350.13)",
+  "answer_numeric": -9350.13
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Jahresüberschuss\" in column \"Mean\"?",
+  "answer": "59,478.65",
+  "answer_numeric": 59478.65
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Jahresüberschuss\" in column \"Std\"?",
+  "answer": "49,364.40",
+  "answer_numeric": 49364.4
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Min\" for the rows ['Materialaufwand', 'Abschreibungen', 'Jahresüberschuss', 'Personalaufwand', 'Steuern']?",
+  "answer": 245830.66,
+  "answer_numeric": 245830.66
+ }
+]

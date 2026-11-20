@@ -1,0 +1,450 @@
+[
+ {
+  "text": "Position",
+  "r": 0,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Min",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Max",
+  "r": 0,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Mean",
+  "r": 0,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Median",
+  "r": 0,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Gross profit",
+  "r": 1,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "56 109",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-7 048",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "56 761",
+  "r": 1,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "76 217",
+  "r": 1,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Working capital",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "16 519",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-8 671",
+  "r": 2,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "82 286",
+  "r": 2,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "41 811",
+  "r": 2,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Cost of sales",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-8 481",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "33 777",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "36 593",
+  "r": 3,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "6 795",
+  "r": 3,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Net income",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "97 173",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "73 954",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "38 123",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "91 708",
+  "r": 4,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "EBIT",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "see note 3",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "71 471",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "8 022",
+  "r": 5,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Depreciation",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "69 283",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19 564",
+  "r": 6,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "Cash flow",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-2 973",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "40 071",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "30 445",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "69 505",
+  "r": 7,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Capex",
+  "r": 8,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 8,
+  "c": 1,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "41 894",
+  "r": 8,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "84 322",
+  "r": 8,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Taxes",
+  "r": 9,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "36 130",
+  "r": 9,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19 838",
+  "r": 9,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "89 212",
+  "r": 9,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "94 947",
+  "r": 9,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Inventory",
+  "r": 10,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "82 932",
+  "r": 10,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 10,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "76 295",
+  "r": 10,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Interest expense",
+  "r": 11,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "96 903",
+  "r": 11,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "50 121",
+  "r": 11,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-7 368",
+  "r": 11,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-8 943",
+  "r": 11,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ }
+]

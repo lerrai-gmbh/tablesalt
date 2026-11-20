@@ -1,0 +1,4 @@
+pillow>=10.0
+numpy>=1.26
+apted>=1.0.3
+lxml>=5.0

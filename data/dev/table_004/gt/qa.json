@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Steuern\" in column \"Q3\"?",
+  "answer": "11 914",
+  "answer_numeric": 11914.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sonstige Kosten\" in column \"FY\"?",
+  "answer": "90 482",
+  "answer_numeric": 90482.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sonstige Kosten\" in column \"Q4\"?",
+  "answer": "4 538",
+  "answer_numeric": 4538.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sonstige Kosten\" in column \"Q3\"?",
+  "answer": "(84)",
+  "answer_numeric": -84.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Q3\" for the rows ['Steuern', 'Sonstige Kosten', 'Jahresüberschuss', 'Umsatzerlöse', 'Zinsaufwand', 'Rohertrag']?",
+  "answer": 235446.0,
+  "answer_numeric": 235446.0
+ }
+]

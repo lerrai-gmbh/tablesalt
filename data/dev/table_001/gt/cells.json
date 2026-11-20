@@ -1,0 +1,258 @@
+[
+ {
+  "text": "",
+  "r": 0,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "2021",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "2022",
+  "r": 0,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "2023",
+  "r": 0,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Phosphorus",
+  "r": 1,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "10.945,71 %",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "41.372,78",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "826,77",
+  "r": 1,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Magnesium",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "17.352,70",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "20.640,41",
+  "r": 2,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "84.747,68",
+  "r": 2,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Carbon",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "81.962,36",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "8.294,89",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(3.549,22)",
+  "r": 3,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Aluminium",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "76.247,20",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "99.495,50",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "22.638,27",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Lithium",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "72.276,82 %",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "83.798,48",
+  "r": 5,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "10.441,37",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Silicon",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "3.188,29",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "58.131,73",
+  "r": 6,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "92.816,82",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Potassium",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "33.536,65",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "72.704,59 %",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "99.569,62 %",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ }
+]

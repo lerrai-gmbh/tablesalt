@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Lithium\" in column \"Q3\"?",
+  "answer": "9,517.49",
+  "answer_numeric": 9517.49
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Hydrogen\" in column \"Q1\"?",
+  "answer": "46,523.13",
+  "answer_numeric": 46523.13
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Carbon\" in column \"Q1\"?",
+  "answer": "45,565.43",
+  "answer_numeric": 45565.43
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Carbon\" in column \"Q2\"?",
+  "answer": "14,332.35",
+  "answer_numeric": 14332.35
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Q3\" for the rows ['Lithium', 'Hydrogen', 'Potassium', 'Aluminium', 'Phosphorus', 'Carbon', 'Nitrogen']?",
+  "answer": 264735.68,
+  "answer_numeric": 264735.68
+ }
+]

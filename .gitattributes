@@ -1,0 +1,7 @@
+# Files that run inside the Linux container must keep LF line endings, even when committed from Windows.
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+Dockerfile text eol=lf
+*.png binary
+*.jpg binary

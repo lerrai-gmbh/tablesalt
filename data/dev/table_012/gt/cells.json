@@ -1,0 +1,586 @@
+[
+ {
+  "text": "",
+  "r": 0,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Train",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Dev",
+  "r": 0,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Test",
+  "r": 0,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "OOD",
+  "r": 0,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Avg",
+  "r": 0,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Rank",
+  "r": 0,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Revenue",
+  "r": 1,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "54.744,72",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "91.259,39 kg",
+  "r": 1,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "28.316,46",
+  "r": 1,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "28.313,34 kg",
+  "r": 1,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Cost of sales",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-2.609,96 kg",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 2,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "64.484,97",
+  "r": 2,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "9.190,51",
+  "r": 2,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "15.504,65",
+  "r": 2,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "EBITDA",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "37.534,93 kg",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "55.142,16",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "72.755,30",
+  "r": 3,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "85.916,98",
+  "r": 3,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "18.859,35",
+  "r": 3,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "55.666,60",
+  "r": 3,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Operating expenses",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "83.006,27",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "22.719,34",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "2.965,55",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "46.190,71",
+  "r": 4,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "10.433,54",
+  "r": 4,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "99.987,95",
+  "r": 4,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Taxes",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "24.604,17",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-8.944,84",
+  "r": 5,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "45.598,17",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "82.387,42",
+  "r": 5,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 5,
+  "c": 5,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "Cash flow",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "20.234,27",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "71.676,52",
+  "r": 6,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "2.563,50",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "80.486,56 kg",
+  "r": 6,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "98.874,35",
+  "r": 6,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "22.748,39",
+  "r": 6,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Net income",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "79.839,51",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "16.064,59",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "68.182,51",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "12.728,75",
+  "r": 7,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "20.919,79",
+  "r": 7,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "21.827,08",
+  "r": 7,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Capex",
+  "r": 8,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "64.722,57 kg",
+  "r": 8,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "91.063,72",
+  "r": 8,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "85.267,94",
+  "r": 8,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "73.761,57",
+  "r": 8,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19.559,35",
+  "r": 8,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "86.813,00 kg",
+  "r": 8,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Interest expense",
+  "r": 9,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "92.996,10",
+  "r": 9,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-9.726,97",
+  "r": 9,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "40.429,50",
+  "r": 9,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "48.786,62",
+  "r": 9,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19.539,52",
+  "r": 9,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "52.275,50",
+  "r": 9,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Gross profit",
+  "r": 10,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "-4.674,08 kg",
+  "r": 10,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "3.666,84",
+  "r": 10,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 10,
+  "c": 3,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "65.744,73",
+  "r": 10,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "92.598,95",
+  "r": 10,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ }
+]

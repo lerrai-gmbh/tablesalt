@@ -1,0 +1,554 @@
+[
+ {
+  "text": "Position",
+  "r": 0,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Min",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Max",
+  "r": 0,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Mean",
+  "r": 0,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Median",
+  "r": 0,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Std",
+  "r": 0,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Sulfur",
+  "r": 1,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "33 675 kg",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(4 078)",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "1 432",
+  "r": 1,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "32 883",
+  "r": 1,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "3 906",
+  "r": 1,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Silicon",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "25 772",
+  "r": 2,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19 966",
+  "r": 2,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "9 474",
+  "r": 2,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Aluminium",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "52 038",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "28 188",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "30 236",
+  "r": 3,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 3,
+  "c": 4,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "Magnesium",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "41 611 kg",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "42 477 kg",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "15 434 kg",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "51 660",
+  "r": 4,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "32 869",
+  "r": 4,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Sodium",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "16 352",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "65 310",
+  "r": 5,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "35 419",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "60 057",
+  "r": 5,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 5,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Lithium",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "–",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "44 293",
+  "r": 6,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "99 774",
+  "r": 6,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Potassium",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "82 789",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(2 146)",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "79 896",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "17 386",
+  "r": 7,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(6 312)",
+  "r": 7,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Hydrogen",
+  "r": 8,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "98 031",
+  "r": 8,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 8,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "17 864",
+  "r": 8,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "85 001",
+  "r": 8,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "25 696",
+  "r": 8,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Helium",
+  "r": 9,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 9,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "55 583",
+  "r": 9,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "54",
+  "r": 9,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "58 764 kg",
+  "r": 9,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "77 060",
+  "r": 9,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Oxygen",
+  "r": 10,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "76 741",
+  "r": 10,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "11 226",
+  "r": 10,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "88 852",
+  "r": 10,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "66 673",
+  "r": 10,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "70 563",
+  "r": 10,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Phosphorus",
+  "r": 11,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "50 997 kg",
+  "r": 11,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 11,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "70 701",
+  "r": 11,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "58 221",
+  "r": 11,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "80 094",
+  "r": 11,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ }
+]

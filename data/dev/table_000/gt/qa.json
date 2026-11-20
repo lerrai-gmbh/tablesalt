@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Depreciation\" in column \"Mär\"?",
+  "answer": "62.572,27",
+  "answer_numeric": 62572.27
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Cost of sales\" in column \"Jan\"?",
+  "answer": "39.875,23",
+  "answer_numeric": 39875.23
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Cash flow\" in column \"Mär\"?",
+  "answer": "202,86 %",
+  "answer_numeric": 202.86
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Inventory\" in column \"Jan\"?",
+  "answer": "31.130,78",
+  "answer_numeric": 31130.78
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Mär\" for the rows ['Depreciation', 'Cash flow', 'Working capital', 'Capex', 'Inventory', 'EBIT', 'Revenue', 'Net income', 'Cost of sales', 'Interest expense', 'Taxes']?",
+  "answer": 625191.33,
+  "answer_numeric": 625191.33
+ }
+]

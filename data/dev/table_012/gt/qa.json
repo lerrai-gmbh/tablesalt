@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"EBITDA\" in column \"Dev\"?",
+  "answer": "55.142,16",
+  "answer_numeric": 55142.16
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Taxes\" in column \"Train\"?",
+  "answer": "24.604,17",
+  "answer_numeric": 24604.17
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"EBITDA\" in column \"OOD\"?",
+  "answer": "85.916,98",
+  "answer_numeric": 85916.98
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Operating expenses\" in column \"Test\"?",
+  "answer": "2.965,55",
+  "answer_numeric": 2965.55
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Dev\" for the rows ['EBITDA', 'Taxes', 'Operating expenses', 'Capex', 'Net income', 'Interest expense', 'Gross profit', 'Cash flow']?",
+  "answer": 241661.36,
+  "answer_numeric": 241661.36
+ }
+]

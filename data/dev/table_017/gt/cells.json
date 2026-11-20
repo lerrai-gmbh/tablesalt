@@ -1,0 +1,274 @@
+[
+ {
+  "text": "Item",
+  "r": 0,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Jan",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Feb",
+  "r": 0,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Mär",
+  "r": 0,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Potassium",
+  "r": 1,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "78.596,67",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "64.882,77",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "18.537,37",
+  "r": 1,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Nitrogen",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "see note 3",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "79.760,99",
+  "r": 2,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Calcium",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "60.214,22",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "23.021,83",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "22.316,66",
+  "r": 3,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Phosphorus",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "51.493,36",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "61.987,50",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "36.252,14",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Sulfur",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "41.013,74",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "53.834,28",
+  "r": 5,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "3.180,51",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Chlorine",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "85.792,66",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "98.590,10",
+  "r": 6,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "84.862,61",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Carbon",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "98.529,47",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "13.032,64",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "76.372,63",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Lithium",
+  "r": 8,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "37.235,21",
+  "r": 8,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "see note 3",
+  "r": 8,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ }
+]

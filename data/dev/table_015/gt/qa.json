@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Potassium\" in column \"Max\"?",
+  "answer": "28 635",
+  "answer_numeric": 28635.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Potassium\" in column \"Min\"?",
+  "answer": "36 162",
+  "answer_numeric": 36162.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Potassium\" in column \"Mean\"?",
+  "answer": "53 585",
+  "answer_numeric": 53585.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sodium\" in column \"Std\"?",
+  "answer": "8 792",
+  "answer_numeric": 8792.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Max\" for the rows ['Potassium', 'Lithium', 'Magnesium', 'Oxygen']?",
+  "answer": 108048.0,
+  "answer_numeric": 108048.0
+ }
+]

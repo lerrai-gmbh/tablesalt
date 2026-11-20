@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Prior SOTA\" in column \"Test\"?",
+  "answer": "-8.159,16",
+  "answer_numeric": -8159.16
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Ablation 3\" in column \"Dev\"?",
+  "answer": "55.770,75",
+  "answer_numeric": 55770.75
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Random\" in column \"Train\"?",
+  "answer": "35.795,88",
+  "answer_numeric": 35795.88
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Variant B\" in column \"Train\"?",
+  "answer": "2.905,55",
+  "answer_numeric": 2905.55
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Test\" for the rows ['Prior SOTA', 'Ablation 3', 'Ours (small)', 'Variant A', 'Random', 'Ours (base)', 'Ours (large)', 'Ablation 1', 'Variant C', 'Variant B']?",
+  "answer": 510399.7,
+  "answer_numeric": 510399.7
+ }
+]

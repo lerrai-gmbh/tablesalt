@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Potassium\" in column \"2023\"?",
+  "answer": "82,712.78",
+  "answer_numeric": 82712.78
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Calcium\" in column \"2022\"?",
+  "answer": "(1,910.65)",
+  "answer_numeric": -1910.65
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sodium\" in column \"2023\"?",
+  "answer": "96,334.60",
+  "answer_numeric": 96334.6
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Calcium\" in column \"2021\"?",
+  "answer": "34,064.18",
+  "answer_numeric": 34064.18
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"2023\" for the rows ['Potassium', 'Sodium', 'Lithium', 'Helium', 'Silicon', 'Calcium', 'Carbon', 'Aluminium']?",
+  "answer": 515284.7,
+  "answer_numeric": 515284.7
+ }
+]

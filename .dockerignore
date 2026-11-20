@@ -1,0 +1,12 @@
+# Keep data and local clutter out of submission images.
+.git/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+flat*/
+out/
+preds*/
+predictions*/
+ranking.json

@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Steuern\" in column \"Std\"?",
+  "answer": "2.343,74",
+  "answer_numeric": 2343.74
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Verbindlichkeiten\" in column \"Min\"?",
+  "answer": "78.507,13",
+  "answer_numeric": 78507.13
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Eigenkapital\" in column \"Std\"?",
+  "answer": "42.327,01",
+  "answer_numeric": 42327.01
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Forderungen\" in column \"Max\"?",
+  "answer": "64.183,78",
+  "answer_numeric": 64183.78
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Std\" for the rows ['Steuern', 'Eigenkapital', 'Forderungen', 'Sonstige Kosten', 'Vorräte', 'Verbindlichkeiten']?",
+  "answer": 208503.45,
+  "answer_numeric": 208503.45
+ }
+]

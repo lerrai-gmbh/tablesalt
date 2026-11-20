@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Helium\" in column \"Q4\"?",
+  "answer": "28,290.78",
+  "answer_numeric": 28290.78
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sodium\" in column \"Q4\"?",
+  "answer": "51,948.42",
+  "answer_numeric": 51948.42
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Helium\" in column \"Q3\"?",
+  "answer": "-80.94",
+  "answer_numeric": -80.94
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Aluminium\" in column \"FY\"?",
+  "answer": "27,228.49",
+  "answer_numeric": 27228.49
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Q4\" for the rows ['Helium', 'Sodium', 'Aluminium', 'Magnesium', 'Hydrogen', 'Lithium', 'Chlorine', 'Calcium', 'Silicon', 'Potassium']?",
+  "answer": 564742.93,
+  "answer_numeric": 564742.93
+ }
+]

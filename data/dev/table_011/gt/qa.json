@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Calcium\" in column \"Q4\"?",
+  "answer": "98 731",
+  "answer_numeric": 98731.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Lithium\" in column \"Q1\"?",
+  "answer": "11 510",
+  "answer_numeric": 11510.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Oxygen\" in column \"Q4\"?",
+  "answer": "52 023",
+  "answer_numeric": 52023.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Silicon\" in column \"Q4\"?",
+  "answer": "(9 427)",
+  "answer_numeric": -9427.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Q4\" for the rows ['Calcium', 'Oxygen', 'Silicon', 'Lithium', 'Aluminium', 'Phosphorus', 'Hydrogen']?",
+  "answer": 225785.0,
+  "answer_numeric": 225785.0
+ }
+]

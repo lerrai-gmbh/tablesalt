@@ -1,0 +1,578 @@
+[
+ {
+  "text": "Item",
+  "r": 0,
+  "c": 0,
+  "rs": 2,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Adjusted",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Plan",
+  "r": 0,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": true
+ },
+ {
+  "text": "Delta",
+  "r": 0,
+  "c": 4,
+  "rs": 1,
+  "cs": 2,
+  "header": true
+ },
+ {
+  "text": "Jan",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Feb",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Mär",
+  "r": 1,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Apr",
+  "r": 1,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Mai",
+  "r": 1,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Chlorine",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "–",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(7,827)",
+  "r": 2,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "50,200",
+  "r": 2,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "59,333",
+  "r": 2,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19,697",
+  "r": 2,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Carbon",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "1,541",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "1,689",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "47,546",
+  "r": 3,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(5,664)",
+  "r": 3,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "26,366 kg",
+  "r": 3,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Lithium",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "81,874",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "46,287",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "15,428",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 4,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "64,443",
+  "r": 4,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Sodium",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "87,931 kg",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "26,153",
+  "r": 5,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "70,637",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "34,027",
+  "r": 5,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "42,606",
+  "r": 5,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Hydrogen",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "4,577",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "1,409",
+  "r": 6,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "38,198",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "84,882",
+  "r": 6,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "43,138",
+  "r": 6,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Potassium",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "71,798",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "86,045",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "37,613",
+  "r": 7,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "60,554",
+  "r": 7,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Silicon",
+  "r": 8,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "57,420 kg",
+  "r": 8,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "41,621",
+  "r": 8,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "25,270",
+  "r": 8,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "50,554",
+  "r": 8,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "38,860",
+  "r": 8,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Calcium",
+  "r": 9,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "24,767",
+  "r": 9,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 9,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "51,284 kg",
+  "r": 9,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "58,097",
+  "r": 9,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Helium",
+  "r": 10,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "63,861",
+  "r": 10,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "n/a",
+  "r": 10,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "26,517",
+  "r": 10,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "29,962",
+  "r": 10,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Oxygen",
+  "r": 11,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(9,757)",
+  "r": 11,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "50,245",
+  "r": 11,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "44,166",
+  "r": 11,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "17,972",
+  "r": 11,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "13,715",
+  "r": 11,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Phosphorus",
+  "r": 12,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "73,285 kg",
+  "r": 12,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "3,554",
+  "r": 12,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 12,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 12,
+  "c": 4,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ }
+]

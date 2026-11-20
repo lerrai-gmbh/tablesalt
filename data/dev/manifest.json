@@ -1,0 +1,242 @@
+[
+ {
+  "id": "table_000",
+  "image": "table_000/image.png",
+  "style": "grid",
+  "tier": "T0",
+  "has_spans": true,
+  "n_rows": 13,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_001",
+  "image": "table_001/image.jpg",
+  "style": "hlines",
+  "tier": "T1",
+  "has_spans": false,
+  "n_rows": 8,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_002",
+  "image": "table_002/image.jpg",
+  "style": "borderless",
+  "tier": "T2",
+  "has_spans": true,
+  "n_rows": 11,
+  "n_cols": 5,
+  "n_qa": 5
+ },
+ {
+  "id": "table_003",
+  "image": "table_003/image.jpg",
+  "style": "grid",
+  "tier": "T3",
+  "has_spans": true,
+  "n_rows": 13,
+  "n_cols": 7,
+  "n_qa": 5
+ },
+ {
+  "id": "table_004",
+  "image": "table_004/image.png",
+  "style": "hlines",
+  "tier": "T0",
+  "has_spans": true,
+  "n_rows": 7,
+  "n_cols": 6,
+  "n_qa": 5
+ },
+ {
+  "id": "table_005",
+  "image": "table_005/image.jpg",
+  "style": "borderless",
+  "tier": "T1",
+  "has_spans": true,
+  "n_rows": 7,
+  "n_cols": 5,
+  "n_qa": 5
+ },
+ {
+  "id": "table_006",
+  "image": "table_006/image.jpg",
+  "style": "grid",
+  "tier": "T2",
+  "has_spans": true,
+  "n_rows": 13,
+  "n_cols": 7,
+  "n_qa": 5
+ },
+ {
+  "id": "table_007",
+  "image": "table_007/image.jpg",
+  "style": "hlines",
+  "tier": "T3",
+  "has_spans": true,
+  "n_rows": 13,
+  "n_cols": 5,
+  "n_qa": 5
+ },
+ {
+  "id": "table_008",
+  "image": "table_008/image.png",
+  "style": "borderless",
+  "tier": "T0",
+  "has_spans": true,
+  "n_rows": 11,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_009",
+  "image": "table_009/image.jpg",
+  "style": "grid",
+  "tier": "T1",
+  "has_spans": true,
+  "n_rows": 10,
+  "n_cols": 6,
+  "n_qa": 5
+ },
+ {
+  "id": "table_010",
+  "image": "table_010/image.jpg",
+  "style": "hlines",
+  "tier": "T2",
+  "has_spans": false,
+  "n_rows": 13,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_011",
+  "image": "table_011/image.jpg",
+  "style": "borderless",
+  "tier": "T3",
+  "has_spans": false,
+  "n_rows": 8,
+  "n_cols": 5,
+  "n_qa": 5
+ },
+ {
+  "id": "table_012",
+  "image": "table_012/image.png",
+  "style": "grid",
+  "tier": "T0",
+  "has_spans": true,
+  "n_rows": 11,
+  "n_cols": 7,
+  "n_qa": 5
+ },
+ {
+  "id": "table_013",
+  "image": "table_013/image.jpg",
+  "style": "hlines",
+  "tier": "T1",
+  "has_spans": true,
+  "n_rows": 12,
+  "n_cols": 5,
+  "n_qa": 5
+ },
+ {
+  "id": "table_014",
+  "image": "table_014/image.jpg",
+  "style": "borderless",
+  "tier": "T2",
+  "has_spans": true,
+  "n_rows": 10,
+  "n_cols": 5,
+  "n_qa": 5
+ },
+ {
+  "id": "table_015",
+  "image": "table_015/image.jpg",
+  "style": "grid",
+  "tier": "T3",
+  "has_spans": true,
+  "n_rows": 7,
+  "n_cols": 6,
+  "n_qa": 5
+ },
+ {
+  "id": "table_016",
+  "image": "table_016/image.png",
+  "style": "hlines",
+  "tier": "T0",
+  "has_spans": true,
+  "n_rows": 10,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_017",
+  "image": "table_017/image.jpg",
+  "style": "borderless",
+  "tier": "T1",
+  "has_spans": true,
+  "n_rows": 9,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_018",
+  "image": "table_018/image.jpg",
+  "style": "grid",
+  "tier": "T2",
+  "has_spans": true,
+  "n_rows": 13,
+  "n_cols": 6,
+  "n_qa": 5
+ },
+ {
+  "id": "table_019",
+  "image": "table_019/image.jpg",
+  "style": "hlines",
+  "tier": "T3",
+  "has_spans": false,
+  "n_rows": 8,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_020",
+  "image": "table_020/image.png",
+  "style": "borderless",
+  "tier": "T0",
+  "has_spans": true,
+  "n_rows": 7,
+  "n_cols": 7,
+  "n_qa": 5
+ },
+ {
+  "id": "table_021",
+  "image": "table_021/image.jpg",
+  "style": "grid",
+  "tier": "T1",
+  "has_spans": true,
+  "n_rows": 12,
+  "n_cols": 6,
+  "n_qa": 5
+ },
+ {
+  "id": "table_022",
+  "image": "table_022/image.jpg",
+  "style": "hlines",
+  "tier": "T2",
+  "has_spans": false,
+  "n_rows": 7,
+  "n_cols": 4,
+  "n_qa": 5
+ },
+ {
+  "id": "table_023",
+  "image": "table_023/image.jpg",
+  "style": "borderless",
+  "tier": "T3",
+  "has_spans": true,
+  "n_rows": 12,
+  "n_cols": 6,
+  "n_qa": 5
+ }
+]

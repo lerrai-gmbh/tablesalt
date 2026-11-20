@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Cash flow\" in column \"Median\"?",
+  "answer": "69 505",
+  "answer_numeric": 69505.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Interest expense\" in column \"Mean\"?",
+  "answer": "-7 368",
+  "answer_numeric": -7368.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Cash flow\" in column \"Max\"?",
+  "answer": "40 071",
+  "answer_numeric": 40071.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Working capital\" in column \"Max\"?",
+  "answer": "-8 671",
+  "answer_numeric": -8671.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Median\" for the rows ['Cash flow', 'Taxes', 'Interest expense', 'EBIT', 'Capex', 'Cost of sales', 'Working capital', 'Gross profit', 'Inventory', 'Net income']?",
+  "answer": 540679.0,
+  "answer_numeric": 540679.0
+ }
+]

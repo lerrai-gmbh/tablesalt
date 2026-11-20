@@ -1,0 +1,674 @@
+[
+ {
+  "text": "",
+  "r": 0,
+  "c": 0,
+  "rs": 2,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Reported",
+  "r": 0,
+  "c": 1,
+  "rs": 1,
+  "cs": 3,
+  "header": true
+ },
+ {
+  "text": "Actual",
+  "r": 0,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Plan",
+  "r": 0,
+  "c": 5,
+  "rs": 1,
+  "cs": 2,
+  "header": true
+ },
+ {
+  "text": "Min",
+  "r": 1,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Max",
+  "r": 1,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Mean",
+  "r": 1,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Median",
+  "r": 1,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Std",
+  "r": 1,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "N",
+  "r": 1,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": true
+ },
+ {
+  "text": "Chlorine",
+  "r": 2,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "13,401.84",
+  "r": 2,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "82,990.39",
+  "r": 2,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "78,793.74",
+  "r": 2,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "",
+  "r": 2,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "19,419.71",
+  "r": 2,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "27,381.03",
+  "r": 2,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Lithium",
+  "r": 3,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "34,086.48",
+  "r": 3,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "see note 3",
+  "r": 3,
+  "c": 2,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "31,381.63",
+  "r": 3,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "25,682.47",
+  "r": 3,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "–",
+  "r": 3,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Aluminium",
+  "r": 4,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "62,812.93",
+  "r": 4,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "73,043.24",
+  "r": 4,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "64,633.13",
+  "r": 4,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "—",
+  "r": 4,
+  "c": 4,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "(3,973.09)",
+  "r": 4,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Hydrogen",
+  "r": 5,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "74,057.17",
+  "r": 5,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "37,372.19",
+  "r": 5,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "51,459.47",
+  "r": 5,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "71,624.06",
+  "r": 5,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "24,437.04",
+  "r": 5,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "21,847.09",
+  "r": 5,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Silicon",
+  "r": 6,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "94,236.68",
+  "r": 6,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "38,038.42",
+  "r": 6,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(1,347.98)",
+  "r": 6,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "75,702.41",
+  "r": 6,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "11,330.02",
+  "r": 6,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "60,998.44",
+  "r": 6,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Calcium",
+  "r": 7,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "9,085.55",
+  "r": 7,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "94,641.23",
+  "r": 7,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "53,741.33",
+  "r": 7,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "98,517.54",
+  "r": 7,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "38,374.03",
+  "r": 7,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "55,055.99",
+  "r": 7,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Phosphorus",
+  "r": 8,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(5,862.28)",
+  "r": 8,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "97,509.58",
+  "r": 8,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "53,836.07",
+  "r": 8,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "see note 3",
+  "r": 8,
+  "c": 4,
+  "rs": 1,
+  "cs": 2,
+  "header": false
+ },
+ {
+  "text": "25,368.30",
+  "r": 8,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Oxygen",
+  "r": 9,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "1,386.00",
+  "r": 9,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "45,500.38",
+  "r": 9,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "38,336.52",
+  "r": 9,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "21,118.73",
+  "r": 9,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "76,814.38",
+  "r": 9,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "64,621.37",
+  "r": 9,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Magnesium",
+  "r": 10,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "89,696.88",
+  "r": 10,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "5,557.84",
+  "r": 10,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "33,115.59",
+  "r": 10,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "31,434.97",
+  "r": 10,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "81,184.83",
+  "r": 10,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "61,062.44",
+  "r": 10,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Sulfur",
+  "r": 11,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "9,829.56",
+  "r": 11,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "14,920.28",
+  "r": 11,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "1,126.28",
+  "r": 11,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "(5,846.85)",
+  "r": 11,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "31,439.43",
+  "r": 11,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "78,994.19",
+  "r": 11,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "Carbon",
+  "r": 12,
+  "c": 0,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "64,399.57",
+  "r": 12,
+  "c": 1,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "72,338.52",
+  "r": 12,
+  "c": 2,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "78,948.01",
+  "r": 12,
+  "c": 3,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "94,183.42",
+  "r": 12,
+  "c": 4,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "32,006.20",
+  "r": 12,
+  "c": 5,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ },
+ {
+  "text": "78,137.91",
+  "r": 12,
+  "c": 6,
+  "rs": 1,
+  "cs": 1,
+  "header": false
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Human\" in column \"Q3\"?",
+  "answer": "73 543",
+  "answer_numeric": 73543.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Oracle\" in column \"Q2\"?",
+  "answer": "62 026",
+  "answer_numeric": 62026.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Ours (large)\" in column \"Q1\"?",
+  "answer": "7 487",
+  "answer_numeric": 7487.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Oracle\" in column \"Q3\"?",
+  "answer": "34 327",
+  "answer_numeric": 34327.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Q3\" for the rows ['Human', 'Oracle', 'Ours (base)', 'Ablation 3', 'Baseline', 'Prior SOTA']?",
+  "answer": 324188.0,
+  "answer_numeric": 324188.0
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Silicon\" in column \"Median\"?",
+  "answer": "19 966",
+  "answer_numeric": 19966.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Hydrogen\" in column \"Min\"?",
+  "answer": "98 031",
+  "answer_numeric": 98031.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Helium\" in column \"Mean\"?",
+  "answer": "54",
+  "answer_numeric": 54.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Aluminium\" in column \"Mean\"?",
+  "answer": "30 236",
+  "answer_numeric": 30236.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Median\" for the rows ['Silicon', 'Potassium', 'Phosphorus', 'Hydrogen', 'Sodium', 'Oxygen', 'Lithium', 'Magnesium', 'Sulfur', 'Helium']?",
+  "answer": 494904.0,
+  "answer_numeric": 494904.0
+ }
+]

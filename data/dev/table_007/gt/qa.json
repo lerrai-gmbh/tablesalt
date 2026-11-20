@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Prior SOTA\" in column \"Train\"?",
+  "answer": "-5,930.86",
+  "answer_numeric": -5930.86
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Prior SOTA\" in column \"Test\"?",
+  "answer": "42,074.03 %",
+  "answer_numeric": 42074.03
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Ours (base)\" in column \"OOD\"?",
+  "answer": "5,706.46",
+  "answer_numeric": 5706.46
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Variant B\" in column \"Train\"?",
+  "answer": "62,281.17",
+  "answer_numeric": 62281.17
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Train\" for the rows ['Prior SOTA', 'Variant B', 'Majority', 'Baseline', 'Variant C', 'Ours (small)', 'Variant A', 'Human', 'Ablation 3']?",
+  "answer": 428629.83,
+  "answer_numeric": 428629.83
+ }
+]

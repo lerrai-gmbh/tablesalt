@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Depreciation\" in column \"Mär\"?",
+  "answer": "83 975",
+  "answer_numeric": 83975.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Receivables\" in column \"Feb\"?",
+  "answer": "26 812",
+  "answer_numeric": 26812.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Interest expense\" in column \"Jan\"?",
+  "answer": "9 228",
+  "answer_numeric": 9228.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Working capital\" in column \"Feb\"?",
+  "answer": "69 261",
+  "answer_numeric": 69261.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Mär\" for the rows ['Depreciation', 'Inventory', 'Net income', 'Receivables', 'Interest expense', 'Working capital']?",
+  "answer": 325572.0,
+  "answer_numeric": 325572.0
+ }
+]

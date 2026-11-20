@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Chlorine\" in column \"Mär\"?",
+  "answer": "84.862,61",
+  "answer_numeric": 84862.61
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Chlorine\" in column \"Feb\"?",
+  "answer": "98.590,10",
+  "answer_numeric": 98590.1
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Phosphorus\" in column \"Feb\"?",
+  "answer": "61.987,50",
+  "answer_numeric": 61987.5
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sulfur\" in column \"Jan\"?",
+  "answer": "41.013,74",
+  "answer_numeric": 41013.74
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Mär\" for the rows ['Chlorine', 'Sulfur', 'Phosphorus', 'Carbon', 'Potassium', 'Nitrogen', 'Calcium']?",
+  "answer": 321282.91,
+  "answer_numeric": 321282.91
+ }
+]

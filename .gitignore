@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated data stays local; only the shipped dev set is tracked.
+data/*
+!data/dev/
+
+# Local runs
+flat*/
+out/
+preds*/
+predictions*/
+ranking.json
+
+.DS_Store

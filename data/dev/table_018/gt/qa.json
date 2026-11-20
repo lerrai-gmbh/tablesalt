@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Chlorine\" in column \"Apr\"?",
+  "answer": "59,333",
+  "answer_numeric": 59333.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Chlorine\" in column \"Mär\"?",
+  "answer": "50,200",
+  "answer_numeric": 50200.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Sodium\" in column \"Jan\"?",
+  "answer": "87,931 kg",
+  "answer_numeric": 87931.0
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Silicon\" in column \"Jan\"?",
+  "answer": "57,420 kg",
+  "answer_numeric": 57420.0
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"Apr\" for the rows ['Chlorine', 'Carbon', 'Sodium', 'Silicon', 'Calcium', 'Oxygen', 'Helium', 'Hydrogen', 'Potassium']?",
+  "answer": 356518.0,
+  "answer_numeric": 356518.0
+ }
+]

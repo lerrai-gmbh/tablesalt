@@ -1,0 +1,32 @@
+[
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Oracle\" in column \"2023\"?",
+  "answer": "63,141.91",
+  "answer_numeric": 63141.91
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Ours (small)\" in column \"2021\"?",
+  "answer": "15,836.08",
+  "answer_numeric": 15836.08
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Variant B\" in column \"2023\"?",
+  "answer": "51,314.52",
+  "answer_numeric": 51314.52
+ },
+ {
+  "type": "lookup",
+  "question": "What is the value for \"Ours (small)\" in column \"2022\"?",
+  "answer": "-4,915.58",
+  "answer_numeric": -4915.58
+ },
+ {
+  "type": "aggregate",
+  "question": "What is the sum of all numeric values in column \"2023\" for the rows ['Oracle', 'Variant B', 'Ablation 3', 'Random', 'Variant A', 'Majority', 'Ours (small)', 'Baseline', 'Prior SOTA']?",
+  "answer": 536408.3,
+  "answer_numeric": 536408.3
+ }
+]
