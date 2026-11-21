@@ -10,8 +10,9 @@ teams with one deterministic command. No jury, no judge model.
 Contents: [1 Problem](#1-the-problem) · [2 Task](#2-your-task) · [3 Getting started](#3-getting-started)
 · [4 Data](#4-the-data) · [5 Output format](#5-output-format) · [6 Scoring](#6-scoring)
 · [7 Submission](#7-submission) · [8 Machine and limits](#8-scoring-machine-and-limits)
-· [9 Baselines](#9-baselines) · [10 Rules](#10-rules) · [11 Ideas](#11-where-to-start)
-· [12 FAQ](#12-faq) · [References](#references)
+· [9 Baselines](#9-baselines) · [10 Model leaderboard](#10-model-leaderboard-on-mlx-all-teams)
+· [11 Rules](#11-rules) · [12 Ideas](#12-where-to-start) · [13 FAQ](#13-faq)
+· [References](#references)
 
 ## 1. The problem
 
@@ -317,7 +318,62 @@ larger validation set for decisions.
 no tuning. A much stronger starting point; see the script's header for installation (about
 1.3 GB of weights). Run it on the dev set to see where it breaks.
 
-## 10. Rules
+## 10. Model leaderboard on MLX (all teams)
+
+Before the challenge we ran every open-weight OCR and document model in our registry — 26 models up
+to 15 B — through the official scorer on the dev set, **locally on Apple Silicon with MLX** instead
+of a GPU. The board is published for all teams: it shows what this data allows on a laptop, which
+tier breaks which model, and that 1 B models are competitive with 9 B ones.
+
+| | |
+|---|---|
+| Models | 22 scored, open weights up to 15 B, 4–8 bit MLX builds (`mlx-vlm`) |
+| Data | `data/dev` — 24 tables, T0–T3 |
+| Score | the official objective, unchanged: S = 0.85 · TEDS_w + 0.15 · QA, TEDS_w = 0.10·T0 + 0.20·T1 + 0.30·T2 + 0.40·T3, tie-break CellF1 |
+| Speed | seconds per table, one stream, Metal on the host — not the scoring machine |
+
+| # | Model | Params | Quant | T0 | T1 | T2 | T3 | QA | CellF1 | FINAL | s/table |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | MinerU2.5 1.2B | 1.20B | bf16 | 0.959 | 0.992 | 0.956 | 0.966 | 0.958 | 0.937 | **0.9659** | 2.1 |
+| 2 | Chandra OCR 2 | 9.00B | 8bit | 0.932 | 0.990 | 0.961 | 0.960 | 0.967 | 0.975 | **0.9640** | 14.9 |
+| 3 | PaddleOCR-VL 0.9B | 0.90B | 8bit | 0.941 | 0.984 | 0.961 | 0.955 | 0.933 | 0.949 | **0.9570** | 1.5 |
+| 4 | dots.ocr 3B | 3.00B | 8bit | 0.910 | 0.937 | 0.927 | 0.942 | 1.000 | 0.958 | **0.9432** | 6.1 |
+| 5 | Qwen3.5 9B | 9.00B | 4bit | 0.941 | 0.941 | 0.943 | 0.941 | 0.875 | 0.883 | **0.9315** | 18.5 |
+| 6 | dots.mocr 3B | 3.00B | 8bit | 0.927 | 0.965 | 0.908 | 0.945 | 0.883 | 0.950 | **0.9280** | 7.7 |
+| 7 | olmOCR-2 7B | 7.00B | 8bit | 0.834 | 0.923 | 0.928 | 0.950 | 0.933 | 0.927 | **0.9274** | 23.2 |
+| 8 | GLM-4.6V-Flash 9B | 9.00B | 4bit | 0.909 | 0.933 | 0.913 | 0.959 | 0.883 | 0.882 | **0.9274** | 10.6 |
+| 9 | LightOnOCR-3 0.8B | 0.80B | 8bit | 0.887 | 0.947 | 0.914 | 0.939 | 0.858 | 0.814 | **0.9175** | 3.4 |
+| 10 | Qwen3-VL 4B Instruct | 4.00B | 4bit | 0.922 | 0.950 | 0.895 | 0.936 | 0.825 | 0.895 | **0.9100** | 8.4 |
+| 11 | Nanonets-OCR2 3B | 3.00B | 8bit | 0.897 | 0.923 | 0.906 | 0.933 | 0.850 | 0.881 | **0.9087** | 9.8 |
+| 12 | Qwen3-VL 8B Instruct | 8.00B | 4bit | 0.915 | 0.948 | 0.945 | 0.935 | 0.742 | 0.918 | **0.9087** | 13.5 |
+| 13 | Qwen2.5-VL 7B | 8.00B | 4bit | 0.882 | 0.906 | 0.913 | 0.926 | 0.475 | 0.753 | **0.8479** | 11.3 |
+| 14 | InternVL3 8B | 8.00B | 6bit | 0.882 | 0.878 | 0.855 | 0.860 | 0.708 | 0.709 | **0.8409** | 17.4 |
+| 15 | MiniCPM-V 4.6 | 1.00B | 4bit | 0.872 | 0.871 | 0.689 | 0.943 | 0.700 | 0.771 | **0.8235** | 3.1 |
+| 16 | LFM2.5-VL 3B | 3.00B | 4bit | 0.829 | 0.864 | 0.805 | 0.866 | 0.483 | 0.540 | **0.7896** | 3.9 |
+| 17 | Ministral 3 14B (8B build) | 14.00B | 4bit | 0.881 | 0.828 | 0.863 | 0.734 | 0.583 | 0.614 | **0.7728** | 23.5 |
+| 18 | Gemma 4 12B | 12.00B | 4bit | 0.609 | 0.765 | 0.770 | 0.760 | 0.642 | 0.651 | **0.7330** | 30.7 |
+| 19 | Pixtral 12B | 12.00B | 4bit | 0.780 | 0.743 | 0.865 | 0.782 | 0.242 | 0.550 | **0.7154** | 18.9 |
+| 20 | Molmo2 8B | 8.00B | 4bit | 0.689 | 0.838 | 0.637 | 0.537 | 0.233 | 0.277 | **0.5810** | 26.4 |
+| 21 | SmolDocling 256M | 0.26B | bf16 | 0.512 | 0.559 | 0.657 | 0.431 | 0.283 | 0.362 | **0.4953** | 11.5 |
+| 22 | Granite-Docling 258M | 0.26B | bf16 | 0.801 | 0.892 | 0.443 | 0.309 | 0.258 | 0.386 | **0.4766** | 3.7 |
+
+**Reading it.** PaddleOCR-VL 0.9B is third overall at 1.5 s per table — the fastest of the top
+three, and a specialist pipeline rather than a general chat model. MinerU2.5 1.2B beats every 9B
+model here. CellF1 and QA separate models with similar TEDS: Qwen3-VL 8B keeps the structure
+(CellF1 0.918) but answers only 0.742 of the questions, Pixtral 12B reads cells at 0.550 with 0.242
+QA. The top three hold ≥ 0.93 on every tier, while below them the damage concentrates in single
+tiers: MiniCPM-V 4.6 drops to 0.689 in T2 (phone photos), Granite-Docling to 0.309 and SmolDocling
+to 0.431 in T3 (fax), Pixtral 12B to 0.743 in T1.
+
+**MLX is not the scoring machine.** The official run is CUDA on an 8 GB RTX 4070 at 15 s per table,
+with other quantisations and kernels, so the third decimal and the seconds per table will not carry
+over. The ranking, and the shape of the failures, do.
+
+Not scored: DeepSeek-OCR 3B and DeepSeek-OCR-2 3B (the MLX builds carry no `processor_class`),
+GOT-OCR2.0 0.58B (needs torch and verovio in the server), Phi-4-multimodal 14B (weights do not match
+the mlx-vlm definition). They are not zeros — they simply did not run.
+
+## 11. Rules
 
 1. Open-weight models only at inference. Training and data synthesis beforehand are free —
    generated data and public table datasets such as PubTabNet [1], PubTables-1M [2] or
@@ -327,7 +383,7 @@ no tuning. A much stronger starting point; see the script's header for installat
    `/data/images`.
 4. Any hardware during development; only the official run is scored.
 
-## 11. Where to start
+## 12. Where to start
 
 - **Look at your errors first.** `evaluate.py` prints TEDS per table; compare the worst ones with
   their images.
@@ -341,7 +397,7 @@ no tuning. A much stronger starting point; see the script's header for installat
   separators and signs in the ones you did not.
 - **Fine-tune on generated data:** unlimited, exactly labeled, in the test distribution.
 
-## 12. FAQ
+## 13. FAQ
 
 **Can we train on the dev set?** Yes, but you lose your only fixed yardstick. Generate training
 data instead and keep `data/dev` for comparison.
